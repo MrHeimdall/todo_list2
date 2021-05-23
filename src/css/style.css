@@ -1,4 +1,28 @@
+body{
+  background-color: rgb(97, 94, 94);
+  margin: 4px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
 .todo-list{
+  border: rgb(56, 185, 17) solid 2px;
   list-style-type: none;
-  color:red
+  color:rgb(0, 0, 0);
+  margin-bottom: 7px;
+  background-color: whitesmoke;
+  margin-left: 0px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border-radius: 10px;
+}
+.btn-danger {
+  margin: 3px;
+}
+.btn-info{
+  margin: 3px;
+}
+.input-group .mb-3{
+  margin: 10px;
 }
