@@ -29,4 +29,12 @@ body{
 }
 .btn-info{
   margin: 3px;
+  background-color:#77acf1;
+ 
+}
+
+.delete{
+  transition: 1000ms;
+  transform: translateY(8rem) rotateZ(20deg);
+  opacity: 0;
 }
