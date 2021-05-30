@@ -6,7 +6,7 @@ body{
   flex-direction: column;
 }
 .todo-container{
-  width: 30rem;
+  width: 70%;
   padding-inline-start: 0px;
 }
 .todo-list{
@@ -22,7 +22,7 @@ body{
 }
 
 .input-group.mb-3 {
-  width: 30rem;
+  width: 70%;
 }
 .btn-danger {
   margin: 3px;
